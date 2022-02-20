@@ -1,5 +1,5 @@
 # Express Cookie 
-Check out the article for the full explanation. [JWT Authentication React](https://www.permify.co/post/jwt-authentication-react).
+Check out the article for the full explanation. [Cookie Management in ExpressJS to authenticate users.](https://www.permify.co/post/cookie-management-react).
 
 ## Available Scripts
 
